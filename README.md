@@ -1,16 +1,16 @@
 # Top 50 Common Interview Programs
 ## Using Java
-01. Fibonacci series
-02. Checking for prime number
-03. String palindrome
-04. Integer palindrome
-05. Armstrong number
-06. Avoiding deadlocks
-07. Factorial Program
-08. Reversing strings
-09. Removing repeated elements
+ 1. Fibonacci series
+ 2. Checking for prime number
+ 3. String palindrome
+ 4. Integer palindrome
+ 5. Armstrong number
+ 6. Avoiding deadlocks
+ 7. Factorial Program
+ 8. Reversing strings
+ 9. Removing repeated elements
 10. Printing patterns
-ll. Printing repetitive characters
+11. Printing repetitive characters
 12. LCM & GCD of two numbers
 13. Square Root of a Number
 14. Reversing an array in place
