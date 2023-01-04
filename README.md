@@ -13,7 +13,7 @@
 11. Printing repetitive characters
 12. LCM & GCD of two numbers
 13. Square Root of a Number
-14. Reversing an array in place
+14. Reversing an array in place https://www.scaler.com/topics/reverse-an-array-in-java/
 15. Reversing the order of words
 16. Determining leap year
 17. Performing binary search
