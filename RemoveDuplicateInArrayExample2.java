@@ -12,7 +12,6 @@ public class RemoveDuplicateInArrayExample2{
         arr[j++] = arr[n-1];  
         return j;  
     }  
-       
     public static void main (String[] args) {  
         int arr[] = {10,20,20,30,30,40,50,50};  
         int length = arr.length;  
