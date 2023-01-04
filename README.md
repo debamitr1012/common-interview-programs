@@ -9,8 +9,7 @@
  7. Factorial Program
  8. Reversing strings
  9. Removing repeated elements
-10. Printing patterns
-https://www.edureka.co/blog/30-pattern-programs-in-java/
+10. Printing patterns https://www.edureka.co/blog/30-pattern-programs-in-java/
 11. Printing repetitive characters
 12. LCM & GCD of two numbers
 13. Square Root of a Number
