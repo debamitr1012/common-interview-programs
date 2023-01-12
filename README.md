@@ -18,8 +18,7 @@
 16. Determining leap year
 17. Performing binary search
 18. Checking for anagrams
-.....
-19. Designing a vending machine
+19. Designing a vending machine https://leetcode.com/discuss/interview-question/object-oriented-design/125218/design-a-vending-machine
 20. Reversing a Number
 21. First Unique Character of a String
 22. Find Middle Element of a Linked List
