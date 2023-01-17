@@ -24,7 +24,7 @@
 22. Find Middle Element of a Linked List
 23. Performing Pre-order Traversal
 24. Pre-order traversal without recursion
-25. Performing in-order traversal
+25. Performing In-order traversal
 26. In-order Traversal without Recursion
 27. Performing Post-order Traversal
 28. Post-order traversal without recursion
