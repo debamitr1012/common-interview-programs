@@ -34,6 +34,7 @@
 32. Performing Bubble Sort
 33. Transposing a Matrix
 34. Printing all permutations of a String
+#start from 35
 35. Reversing a String in Place
 36. Adding Matrices
 37. Multiplying Matrices
